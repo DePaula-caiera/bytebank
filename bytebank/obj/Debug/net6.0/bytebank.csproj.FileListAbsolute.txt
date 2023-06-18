@@ -1,0 +1,15 @@
+C:\CSharp\OrientacaoObjetos\bytebank\bytebank\bin\Debug\net6.0\bytebank.exe
+C:\CSharp\OrientacaoObjetos\bytebank\bytebank\bin\Debug\net6.0\bytebank.deps.json
+C:\CSharp\OrientacaoObjetos\bytebank\bytebank\bin\Debug\net6.0\bytebank.runtimeconfig.json
+C:\CSharp\OrientacaoObjetos\bytebank\bytebank\bin\Debug\net6.0\bytebank.dll
+C:\CSharp\OrientacaoObjetos\bytebank\bytebank\bin\Debug\net6.0\bytebank.pdb
+C:\CSharp\OrientacaoObjetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.csproj.AssemblyReference.cache
+C:\CSharp\OrientacaoObjetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\OrientacaoObjetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfoInputs.cache
+C:\CSharp\OrientacaoObjetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfo.cs
+C:\CSharp\OrientacaoObjetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.csproj.CoreCompileInputs.cache
+C:\CSharp\OrientacaoObjetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.dll
+C:\CSharp\OrientacaoObjetos\bytebank\bytebank\obj\Debug\net6.0\refint\bytebank.dll
+C:\CSharp\OrientacaoObjetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.pdb
+C:\CSharp\OrientacaoObjetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.genruntimeconfig.cache
+C:\CSharp\OrientacaoObjetos\bytebank\bytebank\obj\Debug\net6.0\ref\bytebank.dll
